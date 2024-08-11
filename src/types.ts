@@ -1,0 +1,1 @@
+export type StyleRule = { selector: string; rules: { [key: string]: string } };
