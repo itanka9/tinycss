@@ -2,6 +2,8 @@
 
 This repo contains a module css.ts with simple FSM for parsing base CSS structure (selectors, properties). 
 
+[Demo playground](https://itanka9.github.io/tinycss/)
+
 Usage: 
 
 ```ts
